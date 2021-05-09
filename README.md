@@ -4,7 +4,7 @@ fileshard-cli
 Desktop CLI Client for the [FileShard](https://github.com/AnjaloHettiarachchi/FileShard) platform.
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![License](https://img.shields.io/npm/l/fileshard-cli.svg)](https://github.com/AnjaloHettiarachchi/fileshard-cli/blob/master/package.json)
+[![License](https://img.shields.io/npm/l/fileshard-cli.svg)](https://github.com/AnjaloHettiarachchi/fileshard-cli/blob/main/package.json)
 
 <!-- toc -->
 * [Usage](#usage)
